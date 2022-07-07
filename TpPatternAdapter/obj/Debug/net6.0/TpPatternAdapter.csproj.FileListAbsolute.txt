@@ -1,0 +1,15 @@
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\bin\Debug\net6.0\TpPatternAdapter.exe
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\bin\Debug\net6.0\TpPatternAdapter.deps.json
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\bin\Debug\net6.0\TpPatternAdapter.runtimeconfig.json
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\bin\Debug\net6.0\TpPatternAdapter.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\bin\Debug\net6.0\TpPatternAdapter.pdb
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.csproj.AssemblyReference.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.AssemblyInfoInputs.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.AssemblyInfo.cs
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.csproj.CoreCompileInputs.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\refint\TpPatternAdapter.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.pdb
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\TpPatternAdapter.genruntimeconfig.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternAdapter\TpPatternAdapter\obj\Debug\net6.0\ref\TpPatternAdapter.dll
